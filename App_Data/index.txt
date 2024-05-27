@@ -1,0 +1,8 @@
+1|Elma|30|TL|12|https://images.unsplash.com/photo-1630563451961-ac2ff27616ab?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+2|Portakal|25|TL|10|https://images.unsplash.com/photo-1609789518207-b4892e61e411?q=80&w=1579&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+3|Muz|35|TL|8|https://images.unsplash.com/photo-1542062837-627a059e547f?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+4|Çilek|50|TL|15|https://images.unsplash.com/photo-1588815379841-181f8e458f88?q=80&w=1469&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+5|Üzüm|40|TL|20|https://images.unsplash.com/photo-1516876319496-d5a849a2e89b?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+6|Şeftali|35|TL|7|https://images.unsplash.com/photo-1517355352485-3c18847c2f7d?q=80&w=1450&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+7|Karpuz|7|KG/TL|3|https://images.unsplash.com/photo-1582281298055-e25b84a30b0b?q=80&w=1505&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+8|Kiraz|80|TL|25|https://images.unsplash.com/photo-1498558006075-a12661e7077b?q=80&w=1469&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
